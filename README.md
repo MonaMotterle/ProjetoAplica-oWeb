@@ -1,2 +1,2 @@
-# ProjetoAplica-oWeb
-Sistema Login para o curso POO com Python
+# Sistema Login
+Projeto web de página simples com sistema de login.
